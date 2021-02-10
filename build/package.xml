@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>ODY_Ratings_History__c.ODY_Ratings_History_compact_layout</members>
+        <name>CompactLayout</name>
+    </types>
+    <types>
+        <members>ODY_Ratings_History__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>ODY_Ratings_History__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Ratings_History_RecordPage</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
+        <members>ODY_Ratings_History__c-ODY_Ratings_History_Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>ODY_Ratings_History__c.All</members>
+        <name>ListView</name>
+    </types>
+    <version>48.0</version>
+</Package>
